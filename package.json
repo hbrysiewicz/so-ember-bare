@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/hbrysiewicz/so-ember#readme",
   "devDependencies": {
-    "broccoli": "^0.16.9"
+    "broccoli": "^0.16.9",
+    "broccoli-concat": "^3.0.1",
+    "broccoli-merge-trees": "^1.1.2",
+    "broccoli-static-compiler": "^0.2.2",
+    "broccoli-uglify-js": "^0.2.0"
   }
 }
