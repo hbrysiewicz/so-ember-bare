@@ -4,9 +4,5 @@ This is the landing page for the SoEmber Conference. This site will follow the [
 
 # Get running
 
-Static asset site can be run with any static hosting services locally. For ease, here is one option with `http-server`.
-
-1. Clone repo
-2. `npm i -g http-server`
-3. `cd` into repo and run `http-server`
-4. Visit `http://localhost:8080` in browser
+`npm install --global broccoli-cli`
+`npm i`

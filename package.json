@@ -1,0 +1,22 @@
+{
+  "name": "so-ember",
+  "version": "1.0.0",
+  "description": "Landing in a southern California near you this winter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbrysiewicz/so-ember.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hbrysiewicz/so-ember/issues"
+  },
+  "homepage": "https://github.com/hbrysiewicz/so-ember#readme",
+  "devDependencies": {
+    "broccoli": "^0.16.9"
+  }
+}
